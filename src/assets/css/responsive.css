@@ -1,0 +1,194 @@
+
+
+@media (max-width: 1200px) and (min-width: 992px) {
+
+}
+
+@media (max-width: 1199px) {
+.navigation.sticky.scrolling .top-logo {
+    /* max-width: 250px; */
+     display: none; 
+}	
+    
+.nav-sign-in-wrap {
+    width: 60%;
+} 
+    
+.our-team-box-head {
+/*    min-height: 200px;*/
+}    
+    
+}
+
+@media (max-width: 1199px) and (min-width:992px){
+	
+}
+
+@media screen and (max-width:1000px) {
+
+li.book_trip {
+    border-radius: 0;
+}
+    
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (max-width: 991px) {
+.nav-sign-in-wrap {
+    width: 100%;
+}
+    
+.top-logo {
+	margin-top: 6px;
+} 
+    
+.big-background {
+    min-height: 500px;
+    margin-top: 70px;
+} 
+    
+.hero-content {
+    top: 20%;
+} 
+    
+.difference-inner-box ul {
+    padding: 10px;
+}
+
+.pltaform-main-content h2 {
+    font-size: 36px;
+}
+    
+.pltaform-main-content h3 {
+    font-size: 26px;
+} 
+    
+.difference-inner-box-head h3 {
+    font-size: 17px;
+}
+    
+.difference-inner-box-head {
+    padding: 20px 5px;
+} 
+    
+.difference-main-inner {
+    align-items: self-start;
+}    
+}
+
+@media (max-width: 991px) and (min-width:421px){
+    #cssmenu .nav-link {
+       
+        padding: 40px;
+        padding-top: 10px;
+        font-size: 26px;
+    }
+    #cssmenu nav{width: auto;}
+}
+
+@media (min-width: 768px) {
+.mb-100 {
+	margin-bottom: 100px;
+}
+}
+	
+@media (max-width: 767px) {
+body > section {
+    padding: 30px 0;
+} 
+    
+#inner-page-banner {
+    padding: 100px 0 30px;
+}  
+    
+#inner-page-banner h2 {
+    font-size: 36px;
+}    
+    
+.top-logo {
+    width: 74%;
+}
+    
+.difference-main-inner.offervana-differ {
+    transform: none;
+}
+    
+.difference-main-inner {
+    min-height: auto;
+    margin-bottom: 20px;
+}
+    
+.navigation.sticky.scrolling nav#cssmenu{
+    display: none;
+}    
+    
+#nav-sign-in-submit {
+    min-width: auto;
+} 
+    
+#main-form .main-center {
+    padding: 20px;
+}
+    
+.big-background h1 {
+    font-size: 30px;
+}  
+    
+.section-title h2 {
+    font-size: 26px;
+} 
+    
+.difference-inner-box {
+    min-height: auto;
+}
+    
+.hero-main-form #hero-sign-in-input, .hero-main-form #hs {
+    font-size: 14px;
+    padding: 10px 0px 10px 20px;
+    height: 60px;
+} 
+    
+.hero-main-form #hero-sign-in-submit, .hero-main-form #header-searchbutton {
+    font-size: 11px;
+    height: 40px;
+    min-width: 90px;
+} 
+    
+.footer-sign-in-wrap #footer-sign-in-submit, .footer-sign-in-wrap #header-searchbutton {
+    font-size: 11px;
+    min-width: 90px;
+}    
+
+}
+
+@media (max-width: 640px) {
+
+}
+
+@media (max-width: 600px) {
+
+}
+
+@media (max-width: 575px) {
+    #cssmenu .nav-link {
+       
+        padding: 35px;
+        padding-top: 10px;
+        font-size: 20px;
+    }
+    #cssmenu nav{width: auto;}
+
+}
+
+@media (max-width: 550px) {
+	
+}
+@media (max-width: 420px) {
+.owl-theme .owl-controls {
+    top: 8%;
+}	
+	
+}
